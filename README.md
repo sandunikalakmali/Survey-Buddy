@@ -2,10 +2,10 @@
 Welcome to Survey Buddy! This innovative device is designed to help you map terrain easily and accurately. With Survey Buddy, you can gather GPS coordinates and sensor data, store it on an SD card, and even transmit real-time coordinates to your computer.
 
 ## Getting Started
-For instructions on how to get started using Survey Buddy see https://drive.google.com/file/d/1UoMQ93vor8IvIGIc4BeSwP2s_RM7NNZo/view?usp=drive_link 
+For instructions on how to get started using Survey Buddy [see] (https://drive.google.com/file/d/1UoMQ93vor8IvIGIc4BeSwP2s_RM7NNZo/view?usp=drive_link)
 
 ## Survey Buddy Software
-The Survey Buddy software enhances your surveying experience by providing both real-time and offline mapping capabilities. To download the software see https://drive.google.com/file/d/1OxlZXluBxiknJAYBtwOXAqSvGtbndzlS/view?usp=drive_link
+The Survey Buddy software enhances your surveying experience by providing both real-time and offline mapping capabilities. To download the software [see] (https://drive.google.com/file/d/1OxlZXluBxiknJAYBtwOXAqSvGtbndzlS/view?usp=drive_link)
 
 For real-time mapping, connect the nRF24L01 receiver module to your computer and launch the Survey Buddy software. The software will automatically detect the receiver and start plotting the map in real time as you collect data, allowing you to see your progress instantly.
 
